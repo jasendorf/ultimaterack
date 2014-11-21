@@ -1,0 +1,12 @@
+Requirements
+PHP 4.3 or so
+GD support
+
+Installation Instructions
+
+1. Unzip file
+2. Upload entire contents to a directory on your server
+3. CHMOD the racks, temp and saved directories to 777
+4. edit includes/ur_config.inc.php:  the only **necessary** edit should be the $site_path variable, all others should be fine
+5. A sample ribbon set is included.  For information on creating your own ribbon sets, visit http://ultimaterack.ajandj.com/bb/viewtopic.php?t=114
+6. For a great place to create ribbon graphics, visit http://ultimaterack.ajandj.com/tests/test_creator.php

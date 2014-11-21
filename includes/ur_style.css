@@ -1,0 +1,88 @@
+body, p { font-size: small;
+	background-color: white;
+	font-family: sans-serif;}
+	
+.small { font-size: small;}
+
+p.info_box { width: 400px;
+text-align: left;
+color: #003300;
+background-color: gold;
+padding: 10px;
+
+}
+
+td { font-size: x-small;
+     text-align: center;
+		 vertical-align: top;}
+		 
+td.menu { font-size: xx-small;
+		 font-weight: bold;
+     text-align: center;
+		 vertical-align: top;
+		 background-color: lightgrey;}
+		 
+td.set_selector { font-size: x-small;
+     							text-align: left;
+		 							vertical-align: top;}
+		 
+div.smallred { font-size: x-small;
+     color: red;}
+		 
+.l { font: x-small, sans-serif;
+     text-align: center;}
+		 
+.td_group { font: medium, sans-serif;
+            text-align: left;
+		        background-color: LightSteelBlue;}
+						
+.td_support_doc { font: x-small, sans-serif;
+									text-align: right;}
+						
+.td_contributor { font: x-small, sans-serif;
+									font-variant: small-caps;
+                  text-align: right;
+		              background-color: LightSteelBlue;}
+						
+input.canDisable {	font-size: xx-small;
+				background-color: #ECE9D8;
+				border: 1px solid #666666;}
+				
+td.army {	font-size: small;
+						color: gold;
+						background-color: darkgreen;}
+						
+td.navy {	font-size: small;
+						color: white;
+						background-color: navy;}
+						
+td.marines {	font-size: small;
+						color: white;
+						background-color: black;}
+						
+td.af {	font-size: small;
+						color: white;
+						background-color: blue;}
+						
+td.cg {	font-size: small;
+						border: 1px solid black;
+						color: black;
+						background-color: white;}
+						
+td.civ {	font-size: small;
+						color: lightblue;
+						background-color: darkblue;}
+						
+.important { color: red;}
+
+pre { font-family: sans-serif;}
+
+.rackcell {
+	border-width: 6px;
+	border-style: groove;
+	border-color: #c0c0c0;
+	vertical-align: middle;
+}
+						
+						
+
